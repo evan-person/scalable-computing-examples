@@ -159,3 +159,4 @@ group-project/solutions/config*
 group-project/solutions/*.csv
 *.nc
 *.parquet
+dg_soil_moisture.csv
