@@ -151,3 +151,11 @@ group-project/web_tiles
 *.gpkg
 data/
 04-pleasing/runinfo
+group-project/solutions/staged
+group-project/solutions/geotiff
+group-project/solutions/runinfo
+group-project/solutions/web_tiles
+group-project/solutions/config*
+group-project/solutions/*.csv
+*.nc
+*.parquet
